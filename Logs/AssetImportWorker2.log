@@ -1,0 +1,272 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.21f1 (1b156197d683) revision 1774945'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'en' Physical Memory: 65255 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Pikachu online
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+60133
+Successfully changed project path to: D:/Pikachu online
+D:/Pikachu online
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [25608] Host "[IP] 10.241.2.99 [Port] 0 [Flags] 2 [Guid] 2701656911 [EditorId] 2701656911 [Version] 1048832 [Id] WindowsEditor(7,DAN-WKS-AA051) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [25608] Host "[IP] 10.241.2.99 [Port] 0 [Flags] 2 [Guid] 2701656911 [EditorId] 2701656911 [Version] 1048832 [Id] WindowsEditor(7,DAN-WKS-AA051) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 87.38 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.21f1 (1b156197d683)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Pikachu online/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f02)
+    Vendor:   NVIDIA
+    VRAM:     8019 MB
+    Driver:   31.0.15.3130
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56180
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006965 seconds.
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 366 ms
+Refreshing native plugins compatible for Editor in 84.59 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.992 seconds
+Domain Reload Profiling:
+	ReloadAssembly (992ms)
+		BeginReloadAssembly (81ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (818ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (99ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (645ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (432ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (85ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (86ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003871 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Pikachu online\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Pikachu online\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 81.58 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.050 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1051ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (845ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (224ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (444ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (25ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (82ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (204ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.71 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3736 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (229.5 KB). Loaded Objects now: 4192.
+Memory consumption went from 142.8 MB to 142.5 MB.
+Total: 3.505500 ms (FindLiveObjects: 0.389300 ms CreateObjectMapping: 0.351000 ms MarkObjects: 2.605400 ms  DeleteObjects: 0.158800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 25411.860049 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine.psd
+  artifactKey: Guid(8bc445bb79654bf496c92d0407840a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine.psd using Guid(8bc445bb79654bf496c92d0407840a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33f5659c02cbf629b0bbbfaae57024b') in 0.064269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine_Light.psd
+  artifactKey: Guid(49679f302ac6408697f6b9314a38985c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine_Light.psd using Guid(49679f302ac6408697f6b9314a38985c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe82aab02a17d440c24209fc0fb020c5') in 0.006397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 100.244852 seconds.
+  path: Assets/_Sprites/Pikachu/Images/edf8d5f1-a6ff-4434-a3cd-0d2cee0f2997.jpg
+  artifactKey: Guid(bea3d506d581ab74aa750aee652c5ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/edf8d5f1-a6ff-4434-a3cd-0d2cee0f2997.jpg using Guid(bea3d506d581ab74aa750aee652c5ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab3ef0e1d10065dfca3f14bc7d99ca2') in 0.104795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.953846 seconds.
+  path: Assets/_Sprites/Pikachu/Images/pikachu_01.jpg
+  artifactKey: Guid(bea3d506d581ab74aa750aee652c5ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/pikachu_01.jpg using Guid(bea3d506d581ab74aa750aee652c5ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd316f1653065a545114f000e8a759f51') in 0.061777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 183.956475 seconds.
+  path: Assets/_Sprites/Pikachu/Images/01.jpg
+  artifactKey: Guid(bea3d506d581ab74aa750aee652c5ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/01.jpg using Guid(bea3d506d581ab74aa750aee652c5ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d02447e5bbcc9309e2ec064681b91c') in 0.059122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.024990 seconds.
+  path: Assets/_Sprites/Pikachu/Images/8029af6a-5168-45bc-b119-efbb4d929be7.jpg
+  artifactKey: Guid(5dc51349764298b48bd5dc7b407a846d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/8029af6a-5168-45bc-b119-efbb4d929be7.jpg using Guid(5dc51349764298b48bd5dc7b407a846d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1beee7f8fa46f15258c54110a5cdc8f0') in 0.065112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1704.126194 seconds.
+  path: Assets/_Sprites/Pikachu/Images/_5bcda6ee-a1c2-4d5f-a782-6ea1a004a42e.jpg
+  artifactKey: Guid(7203ee151bbab974ea65bae433600716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/_5bcda6ee-a1c2-4d5f-a782-6ea1a004a42e.jpg using Guid(7203ee151bbab974ea65bae433600716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabe035b03f0de0eee9fa1c5cfdd65f1') in 0.078879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Sprites/Pikachu/Images/_69178742-da3d-4a6a-b1ce-23e3eb1f30f6.jpg
+  artifactKey: Guid(b47f517c6d512924fbd4b8816c9a6e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/_69178742-da3d-4a6a-b1ce-23e3eb1f30f6.jpg using Guid(b47f517c6d512924fbd4b8816c9a6e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ee12dd8ea00aa8ea2e6146141b71a6') in 0.076370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_Sprites/Pikachu/Images/_14b94557-793e-44c1-ad8d-a12e4be74e71.jpg
+  artifactKey: Guid(d3c7c63736a38be4699e520fd90ca391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/_14b94557-793e-44c1-ad8d-a12e4be74e71.jpg using Guid(d3c7c63736a38be4699e520fd90ca391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e06c64afeaf77ec56a8c2828b9234d') in 0.077616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/_Sprites/Pikachu/Images/_bd3e7f6e-c788-4e00-9129-faecc4b914ff.jpg
+  artifactKey: Guid(a9777977e55fad1478940fdb1b091e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/_bd3e7f6e-c788-4e00-9129-faecc4b914ff.jpg using Guid(a9777977e55fad1478940fdb1b091e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3aca1853fa7f4dbdb66de8d8ed01c23') in 0.059951 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Sprites/Pikachu/Images/_ceda1f7e-1ca8-408f-a541-eff64485bb48.jpg
+  artifactKey: Guid(8a8b236b177612948b64fff530bfce80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/_ceda1f7e-1ca8-408f-a541-eff64485bb48.jpg using Guid(8a8b236b177612948b64fff530bfce80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11eae385c817d3e3cc2f6b2c9541ef20') in 0.078513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/_Sprites/Pikachu/Images/_39ed68f3-e0a3-4ff4-aa89-c4c784d2987f.jpg
+  artifactKey: Guid(57e9f8ac1f0612245969be9298beeaf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/_39ed68f3-e0a3-4ff4-aa89-c4c784d2987f.jpg using Guid(57e9f8ac1f0612245969be9298beeaf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa864b45ce177b8271020b66a80ff1c') in 0.077730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/_Sprites/Pikachu/Images/_99c853bd-db06-40b5-95c8-19666740d9a8.jpg
+  artifactKey: Guid(1fd8e906f2fb8c640b73e92491dff1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/_99c853bd-db06-40b5-95c8-19666740d9a8.jpg using Guid(1fd8e906f2fb8c640b73e92491dff1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b5de649837f444dd998ec72e75509d0') in 0.052711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_Sprites/Pikachu/Images/_a6512ec3-ce95-428e-a7f2-f2dbec92cff8.jpg
+  artifactKey: Guid(e80e82adc4ddaab40930c5f5b3a3458e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/_a6512ec3-ce95-428e-a7f2-f2dbec92cff8.jpg using Guid(e80e82adc4ddaab40930c5f5b3a3458e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd825d772c232bd0dbb94803db30cb9fc') in 0.064323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_Sprites/Pikachu/Images/_c4455e32-10bd-4ebe-aeef-0f2ab233fb8e.jpg
+  artifactKey: Guid(f6519f1e03d5b6c44b08a16af032c7b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/_c4455e32-10bd-4ebe-aeef-0f2ab233fb8e.jpg using Guid(f6519f1e03d5b6c44b08a16af032c7b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5508aef83a820b20b708b3134ef13a5') in 0.055418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/_Sprites/Pikachu/Images/_6b74b14f-bc81-4bc1-8d4c-2469d06c5066.jpg
+  artifactKey: Guid(bbe915929be4e2c408576719f4800a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sprites/Pikachu/Images/_6b74b14f-bc81-4bc1-8d4c-2469d06c5066.jpg using Guid(bbe915929be4e2c408576719f4800a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1102ab0a1e312ec72fdd4b7933ff718') in 0.058762 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
